@@ -1,7 +1,14 @@
+import { Header } from "./components/Header/Header";
+import { Footer } from "./components/Footer/Footer";
+
 function App() {
-  return ( 
+  return (
     <>
-      <h1 className="text-2xl">Feu Studios</h1>
+      <Header />
+      <main>
+        <h2>Conteúdo principal</h2>
+      </main>
+      <Footer />
     </>
   );
 }
