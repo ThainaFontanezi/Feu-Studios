@@ -1,12 +1,13 @@
-import { Header } from "./components/Header/Header";
-import { Footer } from "./components/Footer/Footer";
+import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
+import { Button } from "./components/Button";
 
 function App() {
   return (
     <>
       <Header />
-      <main>
-        <h2>Conteúdo principal</h2>
+      <main className="p-8">
+        <Button text="Clique aqui" />
       </main>
       <Footer />
     </>
