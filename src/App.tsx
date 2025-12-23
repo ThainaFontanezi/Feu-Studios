@@ -1,7 +1,15 @@
+import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
+import { Button } from "./components/Button";
+
 function App() {
-  return ( 
+  return (
     <>
-      <h1 className="text-2xl">Feu Studios</h1>
+      <Header />
+      <main className="p-8">
+        <Button text="Clique aqui" />
+      </main>
+      <Footer />
     </>
   );
 }
