@@ -16,6 +16,32 @@ Aplicação web no formato **SPA (Single Page Application)**, com layout respons
 
 ---
 
+## Contribuição Individual — Thaina Fontanezi
+
+Atuei como Desenvolvedora Front-End no Projeto Integrador Feu Studios, sendo responsável pelas páginas de listagem da aplicação.
+
+### Responsabilidades
+- Desenvolvimento das páginas Jogos e Novidades
+- Integração com os dados tipados do projeto
+- Implementação de listagens dinâmicas
+- Aplicação de filtros
+- Ajustes de responsividade com Tailwind CSS
+
+### Stack utilizada diretamente
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Git e GitHub
+
+Este repositório é um fork do projeto original, utilizado para desenvolvimento individual dentro de um fluxo colaborativo com branches e Pull Requests.
+
+Deploy do projeto: https://feu-studios.vercel.app/  
+Repositório principal: https://github.com/cardrocha/Feu-Studios
+
+---
+
 ## 👥 Equipe
 
 | UI/UX | React e Estilização | Lógica e TypeScript |
