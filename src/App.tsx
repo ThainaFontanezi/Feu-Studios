@@ -3,13 +3,13 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
-import { Home } from './pages/Home';
-import { Novidades } from './pages/Novidades';
-import { Jogos } from './pages/Jogos';
-import { Sobre } from './pages/Sobre';
-import { TrabalheConosco } from './pages/TrabalheConosco';
-import { Termos } from './pages/Termos';
-import { Login } from './pages/Login';
+import { Home } from './app/pages/Home';
+import { Novidades } from './app/pages/Novidades';
+import { Jogos } from './app/pages/Jogos';
+import { Sobre } from './app/pages/Sobre';
+import { TrabalheConosco } from './app/pages/TrabalheConosco';
+import { Termos } from './app/pages/Termos';
+import { Login } from './app/pages/login';
 
 export default function App() {
   return (
