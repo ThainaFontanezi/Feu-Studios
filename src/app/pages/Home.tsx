@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'motion/react';
-import { ArrowRight, Sparkles, Users, Trophy, ExternalLink } from 'lucide-react';
+import { ArrowRight, Sparkles, Users, Trophy } from 'lucide-react';
 import { GameCard } from "../../components/GameCard";
 import { NewsCard } from "../../components/NewsCard";
 import { games } from '../data/games';
